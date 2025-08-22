@@ -167,11 +167,11 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 
 ## 📈 Metrics & Achievements  
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=NadiaSafeer&label=Profile%20Views&color=blue&style=flat)  
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadiaSafeer&theme=default)  
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadiaSafeer&show_icons=true&theme=default)  
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaSafeer&layout=compact)  
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=NadiaSafeer&theme=flat&column=4)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nadiya-safeer11&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadiya-safeer11&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadiya-safeer11&layout=compact)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nadiya-safeer11&theme=flat&column=4)  
+
 
 ## 🎯 Current & Future Research Interests  
 
