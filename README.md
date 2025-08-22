@@ -192,10 +192,11 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 - **Cogent Arts & Humanities** – *Taylor & Francis* (UK)  
 
 ### 🔗 Academic Profiles  
-
-<img src="https://img.icons8.com/ios-filled/24/56B366/orcid.png"/> [ORCID](https://orcid.org/0000-0002-0696-7752)  
-- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/0077B5/external-researchgate-a-social-networking-site-for-scientists-and-researchers-logo-shadow-tal-revivo.png"/> [ResearchGate](https://www.researchgate.net/profile/Nadia-Safeer)  
-- <img src="https://img.icons8.com/ios-filled/24/000000/web.png"/> [Web of Science](https://www.webofscience.com/wos/author/record/KRR-1828-2024)   (nadia.safeer@numl.edu.pk)
+- 🎓 [ORCID](https://orcid.org/0000-0002-0696-7752)  
+- 📚 [ResearchGate](https://www.researchgate.net/profile/Nadia-Safeer)  
+- 🔬 [Web of Science](https://www.webofscience.com/wos/author/record/KRR-1828-2024)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadia-safeer-603866154/)  
+- 🏫 [NUML Faculty Profile](https://numl.edu.pk/faculty/13205)  
 ---
 
 <p align="center"><i>“Advancing linguistics, pedagogy, Sounds, Perception, and computation through evidence-based inquiry.”</i></p>
