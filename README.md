@@ -35,82 +35,120 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 
 ---
 
-### 💻 Technical Profile
-**Analysis & Tools:** PRAAT, SPSS, NVivo, AntConc, Sketch Engine, R, Python (NLTK, pandas)  
-**Research Workflow:** corpus design, annotation, quantitative modelling, and visualisation  
-**Communication & Platforms:** academic writing, conference dissemination, WordPress, research profiling
+## 🛠 Tech & Research Tools  
+
+- **Languages & Coding**: Python, R, MATLAB  
+- **Phonetic Tools**: Praat, SPSS, AnConc  
+- **Corpus & Linguistics**: AntConc, NVivo, Sketch Engine  
+- **Data Visualisation**: Tableau, Excel, Matplotlib  
+- **Other**: Zotero, Overleaf, LaTeX  
+---
+
+## 📚 Publications (During/After Masters)
+
+<details>
+<summary><b>📚 Publications (During/After Masters)</b></summary>
 
 ---
 
-### 📚 Selected Publications
-Acoustic Phonetics
-1. Nadia Safeer, Tahir Saleem & Uzma Anjum. (2024). Gender-Based Study of Paired Monophthongs: A Sociophonetics
-Approach. 3L: Language, Linguistics, Literature® The Southeast Asian Journal of English Language Studies Vol 30(2), June 2024. ht
-tps://ejournal.ukm.my/3l/article/view/69238/15925 (Acoustic Phonetics via SPSS, R) (Country Malaysia)
-2. Afsheen Kashifa, Nadia Safeer, Mubeen, & Sidrat-ul-Muntaha, S. (2025). Vowel duration and L1 influence in Pakistani
-English: An acoustic analysis of English monophthongs. Journal of Applied Linguistics and TESOL (JALT), 8(1), 850–864. https://
-jalt.com.pk/index.php/jalt/article/view/399 (Acoustic Phonetics via SPSS, R) (Country Pakistan)
-3. Nadia Safeer, Sadia Malik, & Dr. Uzma Anjum. (2023). A Descriptive Analysis of English Vowel Sounds by L1 Pahari Learners.
-Pakistan Journal of Society, Education and Language (PJSEL), 9(2), 26–42. https://pjsel.jehanf.com/index.php/journal/article/
-view/1119 (Acoustic Phonetics via SPSS, R) (Country Pakistan)
-4. Shahid Hussain, Dr. Uzma Anjum, Nadia Safeer, & Sadia Malik. (2022). Acoustic Analysis of English Vowel Sounds Produced
-by Sindhi Speakers. Pakistan Journal of Society, Education and Language (PJSEL), 9(1), 353–365. https://pjsel.jehanf.com/
-index.php/journal/article/view/1027 (Acoustic Phonetics via SPSS, R) (Country Pakistan)
-ELT & Digital Learning Strategies 
-1. Nadia Safeer. (2025). Literacy Practices, Academic Strategies, and Learner Involvement: Investigating Language Learning
-Motivation (LLM) through SEM. Porta Universorum, 1(2), 72-93. https://doi.org/10.69760/portuni.010209 (ELT+SEM via
-Python) (Country Lithuania)
-2. Jose Maria Felix Martinez, Nadia Safeer, Lubna Choudhry, Mohammed H. Alaqad. (2024). Integrating Training Pills and
-Flipped Classroom Model to Enhance B2-Level Writing Skills in EFL Learners: A Quasi-Experimental Study. Language,
-Technology, and Social Media 2(2). 104-115. https://journal.wiseedu.co.id/index.php/ltsmjournal/article/view/68 (ELT via
-SPSS) (Country Indonesia)
-3. Nadia Safeer & Farooqi, A. (2025). The impact of online spaces on psychological well-being, cultural identity, and ELT
-practices: A quantitative study. Al-AAsar, 2(1), 1–18. https://al-aasar.com/index.php/Journal/article/view/78 (ELT+Psychology
-via SPSS) (Country Pakistan)
-4. Nadia Safeer, Kashifa, A., & Bilal, G. (2025). Leadership strategies and challenges in fostering inclusive and equitable L2
-language education: Case of public education in rural Pakistan. Journal of Applied Linguistics and TESOL, 8(1), 1160–1183. http
-s://jalt.com.pk/index.php/jalt/article/view/445/353 (ELT+Leadership via SPSS) (Country Pakistan)
-5. Nadia Safeer, Lubna Choudhry & Afsheen Kashifa. (2024). Exploring Gamification In English Language Teaching (ELT):
-Enhancing Motivation And Engagement In Language Learning. International Journal of Contemporary Issues in Social Sciences.
-3(3). 2496-2506. https://ijciss.org/index.php/ijciss/article/view/1429 (ELT Qualitative) (Country Pakistan)
-6. Nadia Safeer, Ibrar Hussain, Behjat Azhar & Hassan Sheikh. (2024). Challenges and Strategies in Teaching English in
-Multilingual Classrooms. Journal of Policy Research. 10 (3). 312-317. https://doi.org/10.61506/02.00348 (ELT Qualitative) (Co
-untry Pakistan)
-Corpus Based
-1. Nadia Safeer, Qayyum, M., & Fida, M. (2025). A corpus-assisted study of the attitude of gratitude in the acknowledgement
-section of PhD theses. Contemporary Journal of Social Science Review, 3(1), 1091–1106. https://contemporaryjournal.com/
-index.php/14/article/view/421/356 (SFL+Corpus via AnConc). (Country Pakistan)
-2. Erum Khan, Abdullah Bin Khalıd, Adina Anwar, Nadia Safeer. (2019). Knowledge, attitude, and practice regarding screening
-of breast cancer among women in Karachi, Pakistan. Online Turkish Journal of Health Sciences. 4(3). 301-314. https://
-dergipark.org.tr/en/pub/otjhs/article/47602 (Women's Health SPSS) (Country Turkey)
+<details>
+<summary><b>🎙 Acoustic Phonetics</b></summary>
 
-### 🗣️ Conferences and Scholarly Engagement in workshops
-• International Conference on Digital Marketing and E‑commerce (DMECONF) 2025 UK. https://www.dmeconf.com/e￾commerce-conference
-• International Conference on Digital Marketing ICDM on October 23-24, 2025, in Istanbul, Turkey (Upcoming) https://
-conferenceindex.org/event/international-conference-on-digital-marketing-icdm-2025-october-istanbul-tr
-• International Conference on Business, Engineering, and Social Sciences (ICBESS), 17th-19th November 2025. Hitit University,
-Turkey
-• An Appraisal Attitudinal Analysis of the Acknowledgement Section of Ph.D. These https://www.asfla2022.com/ Macquarie
-University, Australia
-• Acoustic Phonetic Analysis of English Vowel Sounds Using Praat https://www.facebook.com/ICELS2022 Mahasarakham
-University, Thailand 
-• Navigating Online Spaces: The Intersection of Psychology, Culture, and ELT https://facebook.com/AUEnglishDepartment?
-tn=C-R TechHighEd Pakistan, Air University
-• Twelfth International Corpus Linguistics conference (CL2023) Corpus Linguistics Conference (CL2023) – CASS (lancs.ac.uk)
-• Leadership Strategies and Challenges in Fostering Inclusive and Equitable L2 Language Education: Case of Public Education
-in Rural Pakistan. RICE University, USA. 2024 CLIC Conference. https://events.rice.edu/event/360492-2024-clic-conference￾equitable-just-inclusive
+1. **Safeer, N.**, Saleem, T., & Anjum, U. (2024). [Gender-Based Study of Paired Monophthongs: A Sociophonetics Approach](https://ejournal.ukm.my/3l/article/view/69238/15925). *3L: Language, Linguistics, Literature*, 30(2). (Malaysia)  
 
-### 🧰 Featured Projects
-| Project | Description |
-|---|---|
-| **ELT-Corpus-Toolkit** | A compact corpus-building and concordancing pipeline for ELT classrooms using Python and AntConc-ready outputs. |
-| **PhonLab-Praat-Suite** | Reproducible PRAAT scripts for vowel duration and formant tracking with linguist-friendly reports. |
-| **Low-Resource-NLP-Starters** | Templates and notebooks to structure annotation and evaluation for under-resourced languages. |
-| **Classroom-Analytics-Lite** | Privacy-aware classroom analytics dashboards for formative assessment in ELT. |
+2. Kashifa, A., **Safeer, N.**, Mubeen, & Sidrat-ul-Muntaha, S. (2025). [Vowel duration and L1 influence in Pakistani English](https://jalt.com.pk/index.php/jalt/article/view/399). *JALT*, 8(1), 850–864. (Pakistan)  
 
-> Repositories will appear below once pushed to the profile.
+3. **Safeer, N.**, Malik, S., & Anjum, U. (2023). [A Descriptive Analysis of English Vowel Sounds by L1 Pahari Learners](https://pjsel.jehanf.com/index.php/journal/article/view/1119). *PJSEL*, 9(2), 26–42. (Pakistan)  
+
+4. Hussain, S., Anjum, U., **Safeer, N.**, & Malik, S. (2022). [Acoustic Analysis of English Vowel Sounds Produced by Sindhi Speakers](https://pjsel.jehanf.com/index.php/journal/article/view/1027). *PJSEL*, 9(1), 353–365. (Pakistan)  
+
+</details>
 
 ---
+
+<details>
+<summary><b>📘 ELT & Digital Learning Strategies</b></summary>
+
+1. **Safeer, N.** (2025). [Literacy Practices, Academic Strategies, and Learner Involvement](https://doi.org/10.69760/portuni.010209). *Porta Universorum*, 1(2), 72–93. (Lithuania)  
+
+2. Martinez, J. M. F., **Safeer, N.**, Choudhry, L., & Alaqad, M. H. (2024). [Integrating Training Pills and Flipped Classroom Model](https://journal.wiseedu.co.id/index.php/ltsmjournal/article/view/68). *Language, Technology, and Social Media*, 2(2), 104–115. (Indonesia)  
+
+3. **Safeer, N.**, & Farooqi, A. (2025). [The impact of online spaces on psychological well-being, cultural identity, and ELT practices](https://al-aasar.com/index.php/Journal/article/view/78). *Al-AAsar*, 2(1), 1–18. (Pakistan)  
+
+4. **Safeer, N.**, Kashifa, A., & Bilal, G. (2025). [Leadership strategies in inclusive and equitable L2 education](https://jalt.com.pk/index.php/jalt/article/view/445/353). *JALT*, 8(1), 1160–1183. (Pakistan)  
+
+5. **Safeer, N.**, Choudhry, L., & Kashifa, A. (2024). [Exploring Gamification in English Language Teaching](https://ijciss.org/index.php/ijciss/article/view/1429). *IJCISS*, 3(3), 2496–2506. (Pakistan)  
+
+6. **Safeer, N.**, Hussain, I., Azhar, B., & Sheikh, H. (2024). [Challenges and Strategies in Teaching English in Multilingual Classrooms](https://doi.org/10.61506/02.00348). *Journal of Policy Research*, 10(3), 312–317. (Pakistan)  
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Corpus-Based & Interdisciplinary</b></summary>
+
+1. **Safeer, N.**, Qayyum, M., & Fida, M. (2025). [A corpus-assisted study of the attitude of gratitude in acknowledgements of PhD theses](https://contemporaryjournal.com/index.php/14/article/view/421/356). *Contemporary Journal of Social Science Review*, 3(1), 1091–1106. (Pakistan)  
+
+2. Khan, E., Khalid, A. B., Anwar, A., & **Safeer, N.** (2019). [Knowledge, attitude, and practice regarding screening of breast cancer among women in Karachi, Pakistan](https://dergipark.org.tr/en/pub/otjhs/article/47602). *Online Turkish Journal of Health Sciences*, 4(3), 301–314. (Turkey)  
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><b>🎤 Conferences & Talks</b></summary>
+
+---
+
+<details>
+<summary><b>📡 International Conferences</b></summary>
+
+- (2025) [Digital Marketing & E-commerce (DMECONF)](https://www.dmeconf.com/e%E2%80%92commerce-conference), UK.  
+- (2025, Oct 23–24) [International Conference on Digital Marketing (ICDM)](https://conferenceindex.org/event/international-conference-on-digital-marketing-icdm-2025-october-istanbul-tr), Istanbul, Turkey (Upcoming).  
+- (2025, Nov 17–19) International Conference on Business, Engineering, and Social Sciences (ICBESS), Hitit University, Turkey.  
+
+</details>
+
+---
+
+<details>
+<summary><b>🔬 Linguistics & Language Studies</b></summary>
+
+- (2022) [An Appraisal Attitudinal Analysis of the Acknowledgement Section of Ph.D. Theses](https://www.asfla2022.com/), Macquarie University, Australia.  
+- (2022) [Acoustic Phonetic Analysis of English Vowel Sounds Using Praat](https://www.facebook.com/ICELS2022), Mahasarakham University, Thailand.  
+- (2023) [Twelfth International Corpus Linguistics Conference (CL2023)](https://www.lancaster.ac.uk/cass/), Lancaster University, UK.  
+
+</details>
+
+---
+
+<details>
+<summary><b>🌍 ELT, Psychology & Education</b></summary>
+
+- (2024) [Leadership Strategies in Inclusive & Equitable L2 Education](https://events.rice.edu/event/360492-2024-clic-conference%E2%80%92equitable-just-inclusive), CLIC Conference, Rice University, USA.  
+- Navigating Online Spaces: The Intersection of Psychology, Culture, and ELT — [Air University](https://facebook.com/AUEnglishDepartment?tn=C-R), TechHighEd Pakistan.  
+
+</details>
+
+</details>
+
+## 📂 Featured Projects  
+
+- 🔤 **Phonetics of Pahari English Learners** — Dataset & acoustic analysis scripts.  
+- 🧠 **ELT Gamification Toolkit** — Strategies & interactive tools for engaging language classrooms.  
+- 📊 **Corpus of Academic Acknowledgements** — Corpus-based study of gratitude in PhD theses.  
+- 🌍 **Multilingual Classrooms Strategies** — Resources & policy papers on inclusive L2 teaching in Pakistan.  
+---
+
+## 👩‍🏫 Teaching  
+
+- 📘 **Courses Taught**: Phonetics & Phonology, Applied Linguistics, English Language Teaching (ELT), Research Methodology.  
+- 👩‍🎓 **Student Counselling **: Undergraduate dissertations on sociophonetics, language attitudes, and ELT pedagogy.  
+- 🎤 **Workshops**: Phonetic transcription, SPSS for linguistics, Academic writing skills.
+
 
 ### 📈 Contribution Activity
 <p align="center">
@@ -126,31 +164,38 @@ in Rural Pakistan. RICE University, USA. 2024 CLIC Conference. https://events.ri
 ---
 
 ### 📊 GitHub Metrics
-<p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NadiaSafeer&show_icons=true">
-</p>
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaSafeer&layout=compact">
-</p>
 
----
+## 📈 Metrics & Achievements  
 
-### 🏆 Trophies
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=NadiaSafeer&margin-w=15&margin-h=15">
-</p>
+- ![Profile Views](https://komarev.com/ghpvc/?username=NadiaSafeer&label=Profile%20Views&color=blue&style=flat)  
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadiaSafeer&theme=default)  
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadiaSafeer&show_icons=true&theme=default)  
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaSafeer&layout=compact)  
+- ![Trophies](https://github-profile-trophy.vercel.app/?username=NadiaSafeer&theme=flat&column=4)  
 
----
+## 🎯 Current & Future Research Interests  
 
-### ✉️ Contact and Research Profiles
-- **Email:** nadiasafeer2020@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nadia-safeer-603866154/  
-- **ResearchGate:** https://www.researchgate.net/profile/Nadia-Safeer  
-- **ORCID:** https://orcid.org/0000-0002-0696-7752  
-- **Web of Science Author Record:** https://www.webofscience.com/wos/author/record/KRR-1828-2024  
-- **Faculty (NUML):** https://numl.edu.pk/
-https://numlrwp.numl.edu.pk/Numl/faculty_detail/210
-nadia.safeer@numl.edu.pk
+- Acoustic Phonetics & Emotion Recognition in Speech  
+- Corpus-assisted Discourse Analysis  
+- AI & NLP for Low-Resourced Languages (Urdu, Punjabi, Pahari)  
+- Digital Learning Strategies in ELT  
+- Intersections of Psychology, Culture, and Language Education
+## 📑 Certifications & Tests  
+
+- **IELTS Academic** *(25/06/2024 – 25/06/2026)*  
+  - Overall Bands: **6.0**  
+  - [View Result](https://ielts.idp.com/results/score)  
+## 📑 Journal Reviewer / Editorial Roles  
+
+- **Asian Journal of Language, Literature and Culture Studies** (India / UK)  
+- **Asian Journal of Education and Social Studies** (India / UK)  
+- **Cogent Arts & Humanities** – *Taylor & Francis* (UK)  
+
+### 🔗 Academic Profiles  
+
+<img src="https://img.icons8.com/ios-filled/24/56B366/orcid.png"/> [ORCID](https://orcid.org/0000-0002-0696-7752)  
+- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/0077B5/external-researchgate-a-social-networking-site-for-scientists-and-researchers-logo-shadow-tal-revivo.png"/> [ResearchGate](https://www.researchgate.net/profile/Nadia-Safeer)  
+- <img src="https://img.icons8.com/ios-filled/24/000000/web.png"/> [Web of Science](https://www.webofscience.com/wos/author/record/KRR-1828-2024)   (nadia.safeer@numl.edu.pk)
 ---
 
 <p align="center"><i>“Advancing linguistics, pedagogy, Sounds, Perception, and computation through evidence-based inquiry.”</i></p>
